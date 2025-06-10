@@ -76,7 +76,7 @@ it gives JTW Token
 
 Endpoint: GET /auth/current-user
 
-dot forget follow generated token in Authorization
+don't forget follow generated token in Authorization
 
 if you pass everything correct it returns:
 
